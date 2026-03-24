@@ -23,13 +23,5 @@ The objective of this project is to develop a healthcare assistant chatbot that 
 3. Run the chatbot.py file
 4. Open the Gradio link in browser
 
-## Project Structure
-healthcare-ai-chatbot/
-│── chatbot.py
-│── requirements.txt
-│── README.md
-│── data/
-│── screenshots/
-
 ## Author
 Tushar Jha
